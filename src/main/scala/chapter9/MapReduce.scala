@@ -1,7 +1,5 @@
 package chapter9
 
-
-
 object MapReduce {
 
   import cats.Functor
